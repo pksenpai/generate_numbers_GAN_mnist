@@ -1,6 +1,6 @@
-# numbers generator
-- Generate numbers with traditional GAN model &amp; mnist dataset
-
+# Numbers Generator
+- Generate numbers with traditional GAN model &amp; mnist dataset.
+- Using Keras library.
 
 First Samples             |  Latest Samples
 :-------------------------:|:-------------------------:
